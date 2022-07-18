@@ -43,6 +43,15 @@ int main()
                 suma = number_one / number_two;
 
             }
+            /*else if (symbol == '^')
+            ----------------------------------------------------
+            
+                U can add pow system for your Calculator
+                it `ll be more better, trust me!)
+                
+            ----------------------------------------------------
+            else
+                std::cout << "Oh, pls, try again!("*/
             std::cout << "Reply = " << suma;
             break;
         case 3:
